@@ -1,4 +1,5 @@
-## 
+## A small matrix library which caches the result of an inverse matrix solve() operation in order 
+## to optimise operations.  
 
 ## Constructs a matrix in an environment containg auxillary variables which cache a mean value 
 
